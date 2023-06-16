@@ -164,10 +164,10 @@
                                     <groupId>jakarta.enterprise</groupId>
                                     <artifactId>jakarta.enterprise.lang-model</artifactId>
                                 </dependency>
-                                <!-- replaces org.jboss.spec.javax.faces:jboss-jsf-api_2.3_spec -->
+                                <!-- replaces org.glassfish:jakarta.faces -->
                                 <dependency>
-                                    <groupId>jakarta.faces</groupId>
-                                    <artifactId>jakarta.faces-api</artifactId>
+                                    <groupId>org.glassfish</groupId>
+                                    <artifactId>jakarta.faces</artifactId>
                                 </dependency>
                                 <!-- already present -->
                                 <dependency>
